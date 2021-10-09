@@ -1,1 +1,1 @@
-![Sporting Cristal Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/Escudo_del_Club_Sporting_Cristal.svg)
+![Sporting Cristal Logo](https://logodownload.org/wp-content/uploads/2019/04/sporting-cristal-logo-escudo.png)
