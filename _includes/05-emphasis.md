@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Principales habilidades
+** Programacion **
+* Lenguaje C, Javascript, VHDL
+**Habilidades tambien en :** _Python_
